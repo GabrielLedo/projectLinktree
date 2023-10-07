@@ -62,7 +62,6 @@ body * {
 #switch {
   position: relative;
   width: 64px;
-
   margin: 0 auto;
 }
 
@@ -98,7 +97,7 @@ body * {
 }
 
 .light #switch button {
-  animation: slide-in 0.2s forwards;
+  animation: slide-in 0.3s forwards;
 }
 
 /* links */
